@@ -1,9 +1,11 @@
-### Hi there 👋
+# Hi there, welcome to my profile 😋
 
+## Who is Isra? 🤔
 
-<div align="center">
-    <img src="assets/img/hi.jpg" alt="Hola/Hi!" width="800px" position="center"></img>
-</div>
+- I'm a 20 years old student at _Tec de Monterrey_ in Mexico. I love to learn something new everyday.
+- 
+
+<img src="assets/img/perfil.png" align="right"></img>
 <!--
 **Isra-14/Isra-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
