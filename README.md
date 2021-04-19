@@ -4,7 +4,7 @@
 <img src="assets/img/perfil.png" width="300px" align="right"></img>
 - I'm a 20 years old student at _Tec de Monterrey_ in Mexico. I love to learn something new everyday.
 
-- 🌱 I’m currently learning SQL and Oracle DB
+- 🌱 I’m currently learning MySQL, SQL and Oracle DB
 - 💬 Ask me about HTML, JS and JQuery
 - 📫 How to reach me: ishisra14@hotmail.com
 - 😄 Pronouns: He/Him/His
