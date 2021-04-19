@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning MySQL, SQL and Oracle DB
 - 💬 Ask me about HTML, JS and JQuery
-- 📫 How to reach me: ishisra14@hotmail.com
+- 📫 How to reach me: ishisra14@hotmail.com or Twitter <a href="https://twitter.com/IsraSH_14">@IsraSH_14</a>
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love to read sci-fi books and science news. Also my favourite hero is Spider-Man 🕷🕸. 
 
