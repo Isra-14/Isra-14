@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-<img src="assets/hi.jpg"></img>
 
+<div align="center">
+    <img src="assets/img/hi.jpg" alt="Hola/Hi!" width="800px" position="center"></img>
+</div>
 <!--
 **Isra-14/Isra-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
