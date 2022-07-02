@@ -2,10 +2,10 @@
 
 ## Who is Isra? 🤔
 <img src="assets/img/perfil.png" width="300px" align="right"></img>
-- I'm a 21 years old student at _Tec de Monterrey_ in Mexico. I love to learn something new everyday.
+- I'm a 22 years old student at _Tec de Monterrey_ in Mexico. I love to learn something new everyday.
 
-- 🌱 I’m currently learning PHP, REACT & REACT NATIVE
-- 💬 Ask me about HTML, JS, JQuery or MySQL
+- 🌱 I’m currently learning VUE, REACT & REACT NATIVE
+- 💬 Ask me about HTML, JS, PHP, JQuery or MySQL
 - 📫 How to reach me: israel.sanhin[@]outlook.com or Twitter <a href="https://twitter.com/IsraSH_14">@IsraSH_14</a>
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love to read sci-fi books and science news. Also my favourite hero is Spider-Man 🕷🕸. 
