@@ -2,7 +2,7 @@
 
 ## Who is Isra? 🤔
 <img src="assets/img/perfil.png" width="300px" align="right"></img>
-- I'm a 23 year-old computer science engineer at _Tec de Monterrey_ in Mexico. I love to learn something new everyday.
+- I'm a computer science engineer at _Tec de Monterrey_ in Mexico. I love to learn something new everyday.
 
 - 🌱 I’m currently learning VUE, REACT & REACT NATIVE
 - 💬 Ask me about HTML, JS, PHP, JQuery or MySQL
